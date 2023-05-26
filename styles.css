@@ -5,13 +5,13 @@ margin: 0px;
 padding: 0px;
 }
 
-.container{
+.holder{
     display : flex;
     justify-content: center;
     flex-wrap: wrap;   
 }
 
- .container .item {
+ .holder .item {
    height : 100px;
    width:16%;
    background-color: green; 
