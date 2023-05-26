@@ -17,12 +17,12 @@ padding: 0px;
    background-color: green; 
 }
 
-.container .item .item1{
-    background-color: red ; 
+.item1{
+    background-color: red !important ; 
     order:10;
 }
 
-.container .item .item2{
-    background-color: blue;
+ .item2{
+    background-color: blue !important;
     order:11;
 }
